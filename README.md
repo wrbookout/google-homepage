@@ -1,0 +1,1 @@
+This project is building the Google homepage website with the HTML and CSS learned so far in this curriculum. Once I have completed it I will do an assessment of the skills that I have used!
